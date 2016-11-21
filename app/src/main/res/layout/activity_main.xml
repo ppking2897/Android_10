@@ -7,18 +7,53 @@
     android:orientation="vertical"
     >
     <Button
-        android:id="@+id/test"
+        android:id="@+id/test1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="test"
-        android:onClick="test"
+        android:text="test1"
+        android:onClick="test1"
         />
     <Button
-        android:id="@+id/game"
+        android:id="@+id/test2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="game"
-        android:onClick="game"
+        android:text="test2"
+        android:onClick="test2"
+        />
+    <Button
+        android:id="@+id/test3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test3"
+        android:onClick="test3"
+        />
+    <Button
+        android:id="@+id/test4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test4"
+        android:onClick="test4"
+        />
+    <Button
+        android:id="@+id/test5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test5"
+        android:onClick="test5"
+        />
+    <Button
+        android:id="@+id/test6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test6"
+        android:onClick="test6"
+        />
+    <Button
+        android:id="@+id/test7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="test7"
+        android:onClick="test7"
         />
 
     <TextView
